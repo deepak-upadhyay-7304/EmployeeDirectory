@@ -48,4 +48,4 @@ App → EmployeeList → EmployeeCard
 
 ```bash
 git clone https://github.com/deepak-upadhyay-7304/EmployeeDirectory
-cd employee-directory
+cd deepaks project
